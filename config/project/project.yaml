@@ -1,0 +1,24 @@
+dateModified: 1641467294
+email:
+  fromEmail: api.tester.acc003@gmail.com
+  fromName: 'Crafty Coffee'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    91bfa410-c0bf-431c-bf6b-38ebe63efd7f: 'Crafty Coffee' # Crafty Coffee
+    0533dd91-c04b-4df2-9ac2-5451eba3b0f7: Common # Common
+    aa8f2a8c-6fc6-4e19-b12d-393f62a87303: 'Public Schema' # Public Schema
+    e1364470-c73c-4d31-9138-562856306959: 'Crafty Coffee' # Crafty Coffee
+system:
+  edition: pro
+  live: true
+  name: 'Crafty Coffee'
+  retryDuration: null
+  schemaVersion: 3.7.8
+  timeZone: America/New_York
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
